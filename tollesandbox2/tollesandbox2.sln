@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tollesandbox2", "tollesandbox2\tollesandbox2.csproj", "{FD49DE3D-6C4D-405B-A1CB-808B2BD07E0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD49DE3D-6C4D-405B-A1CB-808B2BD07E0F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{FD49DE3D-6C4D-405B-A1CB-808B2BD07E0F}.Debug|iPhone.Build.0 = Debug|iPhone
+		{FD49DE3D-6C4D-405B-A1CB-808B2BD07E0F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{FD49DE3D-6C4D-405B-A1CB-808B2BD07E0F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{FD49DE3D-6C4D-405B-A1CB-808B2BD07E0F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{FD49DE3D-6C4D-405B-A1CB-808B2BD07E0F}.Release|iPhone.Build.0 = Release|iPhone
+		{FD49DE3D-6C4D-405B-A1CB-808B2BD07E0F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{FD49DE3D-6C4D-405B-A1CB-808B2BD07E0F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
