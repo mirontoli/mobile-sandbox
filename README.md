@@ -8,3 +8,7 @@ The main purpose of this "helloword" is to try the Core Location Services with b
 
 ## Hello Estimote
 Following the first step of [Estimote setup](http://developer.estimote.com/ibeacon/tutorial/part-1-setting-up/) and installing Estimote SDK using [CocoaPods](https://guides.cocoapods.org/using/using-cocoapods.html). Make sure you open [.xcworkspace file](http://stackoverflow.com/a/14225575/632117)
+
+## helloipad
+Just a little test for iPad.
+
